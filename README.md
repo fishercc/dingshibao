@@ -56,5 +56,10 @@
 ## ⭐ Project Stats
 
 <div align="center">
+<<<<<<< HEAD
+=======
+[![Star History Chart](https://api.star-history.com/svg?repos=fishercc/dingshibao&type=Date)](https://star-history.com/#fishercc/dingshibao&Date)
+</div>
+>>>>>>> 850cc801cf956419ecaca64d3ab76efb955dfdbd
 
 [![Star History Chart](https://api.star-history.com/svg?repos=fishercc/dingshibao&type=Date)](https://star-history.com/#fishercc/dingshibao&Date)
